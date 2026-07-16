@@ -1,0 +1,3 @@
+﻿  project11.cpp
+D:\pc\project11\project11\project11.cpp(12,13): warning C4101: 'sta': unreferenced local variable
+  project11.vcxproj -> D:\pc\project11\x64\Debug\project11.exe
